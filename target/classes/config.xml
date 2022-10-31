@@ -4,6 +4,7 @@
 <host>localhost</host>
 <port>3306</port>
 <user>root</user>
-<pwd>   </pwd>
+<pwd>1234</pwd>
 </database>
+
 </configuration>
